@@ -38,9 +38,15 @@ This is a python login system with the Database(MySql). In this project I have u
 
 
 # This project is done by
+#Project Done By Vishal Singh 
+git profiile: -- https://github.com/mankotia412vishal
+
 Name :- chaitanya kulkarni
 College Name :- Vishwakarma Institute of Technology
 Email :- chaitanya.kulkarni20@vit.edu
 mobile no :- 7620438088
+
+
+
 
 # If any doubt feel free to contact me
